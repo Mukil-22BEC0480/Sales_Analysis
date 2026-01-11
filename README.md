@@ -50,6 +50,7 @@ The Excel dashboard provides:
 - Filters and slicers for dynamic analysis
 
 **Dashboard Preview:**  
+
 [![Sales Analysis Dashboard](Sales_Analysis_dashboard_image.png)](Sales_Analysis_dashboard_image.png)
 
 
